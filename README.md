@@ -1,4 +1,4 @@
-# Design, Implementation, and Network Administration for the Management Office and Retail Space of the Okono Store Chain
+# Network Design, Implementation, and Administration for the Management Office and Retail Space of the Okono Store Chain
 
 This project focuses on the design, implementation, and administration of a WAN network for the Okono Store chain, aiming to ensure high availability, security, and scalability.
 
